@@ -42,7 +42,7 @@ class MainPage extends GetViewHelper<MainPageController> {
                       ),
                       Expanded(
                         child: Text(
-                          'Thai Hymn',
+                          'Hmong Hymn',
                           style: TextStyle(
                             fontSize: appState.fontSize.appBarTitle,
                             color: Colors.white,

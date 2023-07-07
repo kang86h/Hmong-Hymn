@@ -96,8 +96,8 @@ class DetailPage extends GetViewHelper<DetailPageController> {
             final textWidget = Text(
               state.video.lyricString,
               style: TextStyle(
-                  fontFamily: 'angsana',
-                  height: 1.5,
+                  fontFamily: 'NotoSans',
+                  height: 2,
                   fontSize: appState.fontSize.lyric),
               textAlign: TextAlign.left,
             );

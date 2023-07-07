@@ -62,7 +62,7 @@ class VideoModel extends BaseModel {
 
   factory VideoModel.H40() => VideoModel(
         name: 'Hm40',
-        title: '40. พระพักตร์พระเจ้าผุดผ่องเเวววาม',
+        title: '40. Vajtswv Loj Kawg',
         lyric: [
           [
             //verse 1
