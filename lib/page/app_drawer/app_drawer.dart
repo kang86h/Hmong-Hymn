@@ -42,7 +42,7 @@ class AppDrawer extends StatelessWidget {
                 currentAccountPicture: Image.asset(
                   'assets/images/drawer.png',
                 ),
-                accountName: Text('WELC thai Hymn 0.0.1'),
+                accountName: Text('WELC Hmong Hymn 0.0.1'),
                 accountEmail: Text('kang86h@gmail.com'),
                 decoration: BoxDecoration(
                   gradient: LinearGradient(begin: FractionalOffset.topCenter, end: FractionalOffset.bottomCenter, colors: [
